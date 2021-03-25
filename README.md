@@ -72,7 +72,7 @@ If you now open the IP of your ESP32 in the browser it should return you a JSON 
 ```json
 {
     "humidity": 53.2,
-    "id": "schlafzimmer",
+    "id": "bedroom",
     "temperature": 21.8
 }
 ```
